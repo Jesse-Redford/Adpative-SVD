@@ -18,7 +18,7 @@
 # ---------> cd Desktop\Avante
 # ------------> python dicom-python.py
 
-#=====================Libraries-References=============================#
+#=====================Dependices-References=============================#
 import os
 import sys
 sys.path.append(r'c:\users\jesse\appdata\local\programs\python\python36\lib\site-packages')
