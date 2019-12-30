@@ -1,7 +1,2 @@
-# Py.IoT
-Guide for creating smart systems with python and IoT devices
-
-Node-RED server
-cmd: node-red
-server: http://127.0.0.1:1880/
-server dashboard: http://127.0.0.1:1880/ui
+# SVD
+This repository contains guides, examples, and methods for using SVD compression and approximation scheme for a varitiy of data and file types. 
