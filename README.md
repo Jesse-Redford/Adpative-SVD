@@ -1,5 +1,11 @@
 # SVD
-This repository contains guides, examples, and adpative methods for applying SVD compression to image and video files. 
+This repository contains guides, examples, and adpative methods for applying SVD compression to image and video files. If you would like to read more about my research feel free to read some of my manuscripts. 
+
+
+
+# Locally Adaptive SVD Framework for Feature Oriented Compression
+
+
 
 
 # Dicom study
