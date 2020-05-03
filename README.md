@@ -5,8 +5,12 @@ This repository contains guides, examples, and adpative methods for applying SVD
 
 # SVD Framework for Feature Oriented Compression
 This project aims to integrate OpenCV and matrix transformation techniques to enhance image and video compression by incorperating regions-of-intrests ROI's into the compression process. 
-![Fc-SVD algorithm](https://github.com/Jesse-Redford/Adpative-SVD/blob/master/fc-SVD%20algorithm.PNG?raw=true)
 
+
+<details>
+  <summary>Click here to view concept for the algorithm</summary>
+![Fc-SVD algorithm](https://github.com/Jesse-Redford/Adpative-SVD/blob/master/fc-SVD%20algorithm.PNG?raw=true)
+</details>
 
 <details>
   <summary>Click here to see example code</summary>
