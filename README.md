@@ -3,14 +3,25 @@ This repository contains guides, examples, and adpative methods for applying SVD
 
 
 
-# Locally Adaptive SVD Framework for Feature Oriented Compression
+# SVD Framework for Feature Oriented Compression
+This project aims to integrate OpenCV and matrix transformation techniques to enhance image and video compression by incorperating regions-of-intrests ROI's into the compression process. 
 
 
+<details>
+  <summary>Click here to see example code</summary>
 
+
+</details>
 
 # Dicom study
 File includes code for processing and displaying 2D and 3D reconstuctions of the pixel data within a DICOM image series.
 The idea of this study is to determine wether SVD can be used to efficently compress and potentially enhance image quailty.
+
+<details>
+  <summary>Click here to see example code</summary>
+
+
+</details>
 
 
 # Image processing
