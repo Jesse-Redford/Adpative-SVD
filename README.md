@@ -3,7 +3,7 @@ This repository contains guides, examples, and adpative methods for applying SVD
 The master function would allow you to specify a file path to your series of images, compression and PSNR threshold, followed by an output path for compressed files.Ideally this project would be used for deep learning and image recongnition training sets where one could train and test there models on both orginal and compressed data sets.
 
 
-# SVD Framework for Feature Oriented Compression
+# Framework for Feature Oriented Compression
 This project aims to highlight the research I have been conducting at UNCC in the mathmatrics deparment with Dr.Helen Xingje. In the code examples I have integrated OpenCV and matrix transformation techniques to enhance image and video compression by incorperating regions-of-intrests ROI's into the compression process.  If you would like to read more about my research feel free to read some of my manuscripts. 
 
 
