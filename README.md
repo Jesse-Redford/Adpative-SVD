@@ -1,5 +1,6 @@
-# SVD
-This repository contains guides, examples, and adpative methods for applying SVD compression to image and video files. If you would like to read more about my research feel free to read some of my manuscripts. Ideally this project would be used for deep learning and image recongnition training sets where one could train and test there models on both orginal and compressed data sets.
+# SVD for Image Prcoessing and Compression
+This repository contains guides, examples, and adpative methods for applying SVD compression to image and video files. If you would like to read more about my research feel free to read some of my manuscripts. Files include code for applying SVD-block compression scheme  to a varity of image types. Working towards building modules which allow a user to process a large quanity of images using SVD. 
+The master function would allow you to specify a file path to your series of images, compression and PSNR threshold, followed by an output path for compressed files.Ideally this project would be used for deep learning and image recongnition training sets where one could train and test there models on both orginal and compressed data sets.
 
 # SVD_GUI
 GUI application devloped with python, OpenCV, and PyQt5 which allows user to modify compression parameters while viewing the compressed video feed in real time.
@@ -28,10 +29,4 @@ The idea of this study is to determine wether SVD can be used to efficently comp
 </details>
 
 
-# Image processing
-File includes code for applying SVD-block compression and lowrank approximation to a varity of image types. 
-Working towards building modules which allow a user to process a large quanity of images using SVD. 
-The master function would allow you to specify a file path to your series of images, compression and PSNR threshold, followed by an output path for compressed files. Ideally this would be used for deep learning and image recongnition training sets where one could train and test there models on both orginal and compressed data sets.
 
-
-# SVD
