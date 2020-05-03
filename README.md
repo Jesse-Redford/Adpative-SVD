@@ -2,6 +2,12 @@
 This repository contains guides, examples, and adpative methods for applying SVD compression to image and video files. If you would like to read more about my research feel free to read some of my manuscripts. 
 
 
+<details>
+  <summary>SVD library</summary>
+
+
+</details>
+
 
 # SVD Framework for Feature Oriented Compression
 This project aims to integrate OpenCV and matrix transformation techniques to enhance image and video compression by incorperating regions-of-intrests ROI's into the compression process. 
