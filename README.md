@@ -28,10 +28,12 @@ This project aims to integrate OpenCV and matrix transformation techniques to en
 File includes code for processing and displaying 2D and 3D reconstuctions of the pixel data within a DICOM image series.
 The idea of this study is to determine wether SVD can be used to efficently compress and potentially enhance image quailty.
 
+
+ 
+![DICOM Study, SVD compression effects on 3D reconstructions of CT and MRI scans](https://github.com/Jesse-Redford/Adpative-SVD/blob/master/3D_Bone_Reconstruction_GIF.gif?raw=true)
+
 <details>
   <summary>Click here to see example code</summary>
-  
- 
 
 </details>
 
