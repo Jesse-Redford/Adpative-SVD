@@ -1,5 +1,5 @@
 # SVD
-This repository contains guides, examples, and methods for using SVD compression and approximation scheme for a varitiy of data and file types. 
+This repository contains guides, examples, and adpative methods for applying SVD compression to image and video files. 
 
 
 # Dicom study
